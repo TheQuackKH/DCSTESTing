@@ -1,0 +1,53 @@
+-- tweens
+
+(-2129, 550, 1059) -- Temperate Rainforest 1
+
+(-1397, 550, 675) -- Birch Forest 1
+
+(-2133 550, 294) -- Wilderness 1 (near Temperate Rainforest 1)
+
+(-927 550, -93) -- Lowland Taiga 1
+
+(-1302, 550, -471) -- Wilderness 2 (next to Alpine Taiga 1)
+
+(-1444, 550, -1311) -- Alpine Taiga 1
+
+(-707, 550, -916) -- Inbetween Lowland Taiga 2 and a Wilderness 3
+
+(-356, 550, -1269) -- Gilded Garden 1
+
+(306, 550, -1327) -- Gilded Garden 2
+
+(1005, 550, -1154) -- Ancient Redwoods 1
+
+(1293, 550, -549) -- Carboniferous Remnant 1 (Next to Ancient Redwoods 1)
+
+(2452, 550, 122) -- Wilderness Bridge
+
+(4423, 550, -701) -- The Arena
+
+(1026, 550, -117) -- Ancient Redwoods 2 (Past Carboniferous Remnant 1)
+
+(590, 550,  -428) -- Ancient Redwoods 3
+
+(56, 550, -360) -- Flower Fields 1
+
+(-441, 550, -169) -- Midlands 1
+
+(348, 550, 306) -- Ancient Redwoods 4
+
+(1137, 550, 125) -- Between Ancient Redwoods 5 and Veiled Jungle 1
+
+(1240, 550, 946) -- Veiled Jungle 2
+
+(111, 550 981) -- Blossoming Grove
+
+(-430, 550, 1035) -- Great Spire
+
+(-871 550, 1730) -- Temperate Rainforest 2
+
+(-2107, 550, 1357) -- Temperate Rainforest 3
+
+(-1542, 575, 950) -- Wilderness 3
+
+(-2129, 550, 1059) -- Back to The Start Then Loop
